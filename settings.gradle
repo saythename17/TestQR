@@ -1,0 +1,3 @@
+include ':qr_scan'
+include ':app'
+rootProject.name = "TestQR"
